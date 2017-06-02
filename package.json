@@ -1,0 +1,19 @@
+{
+  "name": "class01homework_calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EugeneBrave/ReactClass01_Homework.git"
+  },
+  "author": "Eugene Lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EugeneBrave/ReactClass01_Homework/issues"
+  },
+  "homepage": "https://github.com/EugeneBrave/ReactClass01_Homework#readme"
+}
