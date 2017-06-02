@@ -25,7 +25,7 @@ class App extends Component {
     render() {
         return (
             <div>
-                Hello, Calculator.
+                <div style={{font:'24pt arial', textDecoration: 'underline'}}>Hello, Calculator.</div>
                 <div style={{height:'60px'}}>
                     <Block value="1" handleClick={this.numberClick} source={this.state}/>
                     <Block value="2" handleClick={this.numberClick} source={this.state}/>
